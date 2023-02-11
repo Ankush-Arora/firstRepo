@@ -12,3 +12,5 @@ public static void main(String[] args)
   System.out.println("The sum of two number is ="+result);
   }
   }
+
+https://saificode.blogspot.com/2022/08/shopping-cart-reactjs-project-with.html?m=1
